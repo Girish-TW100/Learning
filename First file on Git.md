@@ -1,9 +1,11 @@
 This is the first file that is being uploaded to *GitHub*.
 So no need to worry of any content that doesnt suit here in a later stage when you check the file.
 
-Let me tell you a joke
+Let me tell you a *joke*
+
+But you have to laugh **OK**
+
 Ah dont worry nothing came to my mind.
 
-You can skip the reading now.
 
 **Have a great life** and **All the best** for your API documentation journey.
