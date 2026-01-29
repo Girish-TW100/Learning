@@ -3,7 +3,7 @@ So no need to worry of any content that doesnt suit here in a later stage when y
 
 Let me tell you a *joke*
 
-But you have to laugh **OK**. Would you laugh?
+But you have to laugh **OK**. Would you laugh or be silent?
 
 Let me tell you a joke
 
