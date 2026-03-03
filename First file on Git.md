@@ -5,11 +5,11 @@ Let me tell you a *joke*
 
 But you have to laugh **OK**. Would you laugh or be silent?
 
-Let me tell you a joke
 
-Ah dont worry nothing came to my mind.
+Ah dont worry nothing came to my mind. Do you have something running in yours?
 
 
 **Have a great life** and **All the best** for your API documentation journey.
 
 A line from the main branch!!
+
